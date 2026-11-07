@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi! 🪽💻
 
-<!--
-**userr3340/userr3340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Designer & Developer focused on web design, digital products and creative development. I love creating visually distinctive, interactive and functional digital experiences.
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/ce68700f-9864-49c2-bf0f-a82d6514aec5" alt="Coding animation" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Node.js, Git, GitHub and VS Code" />
+</p>
