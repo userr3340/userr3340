@@ -2,7 +2,7 @@
 
 I’m a Designer & Developer focused on web design, digital products and creative development. I love creating visually distinctive, interactive and functional digital experiences.
 
-<img src="https://github.com/user-attachments/assets/ce68700f-9864-49c2-bf0f-a82d6514aec5" alt="Coding animation" width="500">
+<img src="IMG_8498.gif" alt="Coding animation" width="500">
 
 <br>
 
