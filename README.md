@@ -2,10 +2,6 @@
 
 I’m a Designer & Developer focused on web design, digital products and creative development. I love creating visually distinctive, interactive and functional digital experiences.
 
-<img src="IMG_8498.gif" alt="Coding animation" width="500">
-
-<br>
-
 ### Tech Stack
 
 <p>
